@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is boring first  text file
+=======
+this is freaking first  text file
+>>>>>>> 9a3e33bb379c30d6e4c571c78b55a84f9ec5dab5
